@@ -2431,3 +2431,6 @@ Java Model Exception: Java Model Status [<module:java.sql> is not on its project
 !ENTRY org.talend.platform.logging 1 0 2022-11-01 18:08:20.915
 !MESSAGE 2022-11-01 18:08:20,913 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/TOSDI-8.0.1/studio/configuration/.m2/repository -Dencryption.keys.file=/Applications/TOSDI-8.0.1/studio/configuration/studio.keys -cp /Users/Venkat/Desktop/TalendTest/talendpoc/POC/poms/jobs/process/temp_0.1/target/classpath.jar: poc.temp_0_1.temp --context=Default --stat_port=3908
 
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-11-01 18:30:27.852
+!MESSAGE The workspace will exit with unsaved changes in this session.
